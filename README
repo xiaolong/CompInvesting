@@ -1,0 +1,6 @@
+This code repo consists homeworks and experiments in course 'Computational Investing' 
+offered by Georgia Tech on Coursera.org. 
+
+The series of code pieces/fragements created a market simulator that can be used 
+to test investing strategies. Code was written in Python and requires QSTK, NumPy and pandas.
+ 
